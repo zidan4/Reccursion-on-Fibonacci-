@@ -1,3 +1,3 @@
 # Reccursion-on-Fibonacci-
 
-JavaScript Algorithms and Data
+JavaScript Algorithms and Data Structures
